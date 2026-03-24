@@ -1,0 +1,100 @@
+builtin:
+  disabled:
+    - anysphere.cursor-agent-exec
+    - anysphere.cursor-always-local
+    - anysphere.cursor-retrieval
+    - undefined.cursor-themes
+disabled:
+  - id: Tencent-Cloud.coding-copilot
+    uuid: 00000000-0000-0000-0000-000000000000
+enabled:
+  - id: anysphere.cursorpyright
+    uuid: d7f9f831-2239-4783-9d06-18d27f285818
+  - id: anysphere.pyright
+    uuid: d990d7f1-60b6-4234-91a7-d146a42bb230
+  - id: anysphere.remote-containers
+    uuid: 94d8b289-9db0-4c3c-b4f3-a3294c789678
+  - id: anysphere.remote-ssh
+    uuid: 73a45d83-83c7-4b22-bebf-c9130b0ab3f3
+  - id: anysphere.remote-wsl
+    uuid: 39a52826-2472-403d-8410-37905302f26a
+  - id: ArianJamasb.protein-viewer
+    uuid: 623fa911-ad9a-4b39-938b-80bcacbfd250
+  - id: batisteo.vscode-django
+    uuid: 4b41a5a8-170e-4156-b2c0-10efb270abbc
+  - id: Casea1998.gmxlang
+    uuid: caff09e2-b306-4ad3-95a4-32ee2446027d
+  - id: donjayamanne.python-environment-manager
+    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
+  - id: donjayamanne.python-extension-pack
+    uuid: f5188937-53e0-45bb-a16d-61231003fa3b
+  - id: EricSia.pythonsnippets3pro
+    uuid: da971862-6e3c-4fd9-87ae-6f4c515f9784
+  - id: fake-cursor.cursor-fake-machine
+    uuid: null
+  - id: frhtylcn.pythonsnippets
+    uuid: 0ad8c94b-76b2-4033-b703-18596182bfcc
+  - id: george-alisson.html-preview-vscode
+    uuid: 18b0ddc7-5d9c-4604-a7fa-10e66a2cb10d
+  - id: google.geminicodeassist
+    uuid: 51643712-2cb2-4384-b7cc-d55b01b8274b
+  - id: GrapeCity.gc-excelviewer
+    uuid: 8bb12ae3-73f8-40cf-86b7-4bd5729c6238
+  - id: KevinRose.vsc-python-indent
+    uuid: f3cbfb84-b1e1-40ff-b70f-877253461260
+  - id: mechatroner.rainbow-csv
+    uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: MS-CEINTL.vscode-language-pack-zh-hans
+    uuid: e4ee7751-6514-4731-9cdb-7580ffa9e70b
+  - id: ms-python.anaconda-extension-pack
+    uuid: 5a8b9107-e667-4ec8-a792-d066a93b9eff
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: ms-vscode.cpptools
+    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: nextbook.file-and-folder-icons
+    uuid: 733d4ea0-f370-41c9-aa68-66cb5a4d5f26
+  - id: njpwerner.autodocstring
+    uuid: 2d6fea35-f68e-461d-9b7b-5cd05be99451
+  - id: njqdev.vscode-python-typehint
+    uuid: a7b7591e-f2b8-48f7-b8ea-6d62a0dd38c8
+  - id: qinjia.view-in-browser
+    uuid: 450d63ed-8ac6-4694-b26e-77cb20bcb25e
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: ritwickdey.LiveServer
+    uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
+  - id: seepine.md-editor
+    uuid: 80abe3a8-0597-4501-9b13-b69a929277e2
+  - id: shd101wyy.markdown-preview-enhanced
+    uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
+  - id: SupernovaZJX.gmx-helper
+    uuid: 5d37af46-c876-499b-9478-3d9984fae8e5
+  - id: techer.open-in-browser
+    uuid: fef63133-dae3-40fb-b81d-6da7617b4b1e
+  - id: tomoki1207.pdf
+    uuid: 6db08635-0c6a-45ba-9a4b-8c3e192c63c2
+  - id: tushortz.python-extended-snippets
+    uuid: 8842cbf6-738b-423f-81a4-ae88fba2024c
+  - id: VisualStudioExptTeam.intellicode-api-usage-examples
+    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
+  - id: wholroyd.jinja
+    uuid: c941a679-d500-46a8-b2a9-208063125901
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
